@@ -1,0 +1,14 @@
+.btn-next{
+    width: 100%;
+    background: rgb(0, 188, 235);
+    color: #fff;
+    font-size: 20px;
+    padding: 10px;
+   border: none;
+   border-radius: 5px;
+   cursor: pointer;
+}
+.btn-next:disabled{
+    background:#888;
+    cursor: not-allowed;
+}
